@@ -1,1 +1,15 @@
-#placeholder
+Python libraries needed to run:
+
+Data preprocessing
+
+EDA
+
+Kaplan–Meier analysis
+
+Log-rank test
+
+Cox PH model
+
+Plots
+
+Jupyter notebook
